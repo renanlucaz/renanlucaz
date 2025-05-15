@@ -47,6 +47,3 @@ Atualmente estou trabalhando na Geekie como Software Engineer II, e no último s
 - 💼 [LinkedIn](https://www.linkedin.com/in/renannascimento/)
 - ✉️ renanlucaz53@gmail.com
 - 📞 11 99699-0476
-
----
-🔍 Sempre explorando novas tecnologias, resolvendo problemas reais e aprendendo com a comunidade open source.
