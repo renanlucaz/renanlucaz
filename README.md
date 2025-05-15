@@ -34,8 +34,8 @@ Sou **Software Engineer** apaixonado por resolver problemas com código limpo, e
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renannascimento&show_icons=true&theme=github_dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renannascimento&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanlucaz&show_icons=true&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlucaz&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 ---
