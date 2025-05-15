@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Renan Nascimento
 
-Sou **Software Engineer** apaixonado por resolver problemas com código limpo, escalável e com propósito. Tenho experiência em aplicações **web e mobile**, com foco em **backend, integração de sistemas, APIs e arquitetura**.
+Sou desenvolvedor de software apaixonado por dados, programação e resolver problemas através de tecnologia. 
+Atualmente estou trabalhando na Geekie como Software Engineer II, e no último semestre de Data Sciene na FIAP.
 
 ---
 
@@ -24,8 +25,9 @@ Sou **Software Engineer** apaixonado por resolver problemas com código limpo, e
 ## 💼 Experiência
 
 - Criação de **APIs escaláveis** com NestJS, FastAPI e Flask
+- Desenvolvimento de sistemas WEB com **React**
 - Integração com sistemas de autenticação como **Keycloak e Auth0**
-- Desenvolvimento mobile com **React Native (Expo)**
+- Desenvolvimento mobile com **React Native**
 - Integrações com **serviços de terceiros (Google, Meta, ClassApp, etc.)**
 - Boas práticas com **Docker, GitHub Actions e testes automatizados (pytest, Jest)**
 
@@ -40,11 +42,11 @@ Sou **Software Engineer** apaixonado por resolver problemas com código limpo, e
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/renannascimento/)
-- ✉️ renan.nascimento.dev@gmail.com
-- 🌍 renannascimento.dev (em construção)
+- ✉️ renanlucaz53@gmail.com
+- 📞 11 99699-0476
 
 ---
 🔍 Sempre explorando novas tecnologias, resolvendo problemas reais e aprendendo com a comunidade open source.
